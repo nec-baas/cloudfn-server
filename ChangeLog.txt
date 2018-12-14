@@ -1,0 +1,144 @@
+2018-10-02 : v7.5.0
+
+    * 以下のサーバモジュールの更新
+      - cloudfn-server-manager
+      - cloudfn-java-server
+      - cloudfn-node-server
+
+    * 以下のサーバモジュールはバージョンのみ変更
+      - cloudfn-dokcer-container
+
+2018-09-12 : v7.5.0 rc2
+
+    * 以下のサーバモジュールの更新
+      - cloudfn-server-manager
+      - cloudfn-java-server
+
+    * 以下のサーバモジュールはバージョンのみ変更
+      - cloudfn-dokcer-container
+      - cloudfn-node-server
+
+2018-08-28 : v7.5.0-rc1
+
+    * 以下のサーバモジュールの更新
+      - cloudfn-server-manager
+      - cloudfn-node-server
+      - cloudfn-java-server
+      - cloudfn-dokcer-container
+
+2018-05-18 : v7.0.2
+
+    * 以下のサーバモジュールの更新
+      - cloudfn-server-manager
+      - cloudfn-node-server
+      - cloudfn-java-server
+
+    * 以下のサーバモジュールはバージョンのみ変更
+      - cloudfn-dokcer-container
+
+2018-05-18 : v6.5.4
+
+    * 以下のサーバモジュールの更新
+      - cloudfn-server-manager
+      - cloudfn-node-server
+      
+    * 以下のサーバモジュールはバージョンのみ変更
+      - cloudfn-dokcer-container
+      - cloudfn-java-server
+
+2018-03-23 : v7.0.0
+
+    * 以下のサーバモジュールの更新
+      - cloudfn-server-manager
+      - cloudfn-java-server
+      - cloudfn-node-server
+
+    * 以下のサーバモジュールはバージョンのみ変更
+      - cloudfn-dokcer-container
+
+2018-03-09 : v7.0.0 rc1
+
+    * 以下のサーバモジュールの更新
+      - cloudfn-server-manager
+      - cloudfn-java-server
+      - cloudfn-dokcer-container
+      - cloudfn-node-server
+
+2018-03-07 : v6.5.3
+
+    * 以下のサーバモジュールの更新
+      - cloudfn-server-manager
+      - cloudfn-java-server
+      - cloudfn-dokcer-container
+
+    * 以下のサーバモジュールはバージョンのみ変更
+      - cloudfn-node-server
+
+2018-02-23 : v6.0.5
+
+    * 以下のサーバモジューの更新
+      - cloudfn-server-manager v6.0.5
+      - cloudfn-java-server v6.0.5
+      - cloudfn-dokcer-container v6.0.5
+
+    * 以下のサーバモジューはバージョン更新のみ
+      - cloudfn-node-server v6.0.5
+
+2018-02-08 : v6.5.1
+
+    * 以下のサーバモジュールの更新
+      - cloudfn-node-server v6.5.1
+      - cloudfn-java-server v6.5.1
+
+2018-01-23 : v6.0.1
+
+    * 以下のサーバモジュールの更新
+      - cloudfn-java-server v6.0.1
+      - cloudfn-node-server v6.0.1
+
+2017-12-13 : v7.0.0-beta1
+
+    * 以下のサーバモジュールの更新
+      - cloudfn-java-server v7.0.0-beta1
+      - cloudfn-server-manager v7.0.0-beta1
+      - cloudfn-node-server v7.0.0-beta1
+      - cloudfn-dokcer-container v7.0.0-beta1
+
+2017-10-17 : v6.5.0
+
+    * 以下のサーバモジュールの更新
+      - cloudfn-java-server v6.5.0
+
+2017-10-06 : v6.5.0-rc2
+
+    * 以下のサーバモジュールの更新
+      - cloudfn-server-manager v6.5.0
+      - cloudfn-node-server v6.5.0
+
+    * 以下のサーバモジュールはバージョンのみ変更
+      - cloudfn-java-server v6.5.0
+      - cloudfn-dokcer-container v6.5.0
+
+2017-09-22 : v6.5.0-rc1
+
+    * 以下のサーバモジュールの更新
+      - cloudfn-server-manager v6.5.0-rc1
+      - cloudfn-node-server v6.5.0-rc1
+      - cloudfn-java-server v6.5.0-rc1
+      - cloudfn-dokcer-container v6.5.0-rc1
+
+2017-03-02 : v6.0.0
+
+    * 以下のサーバモジュールの更新
+      - cloudfn-server-manager v6.0.0
+      - cloudfn-node-server v6.0.0
+      - cloudfn-java-server v6.0.0
+      - cloudfn-dokcer-container v6.0.0
+
+2017-02-08 : 6.0.0 rc1
+
+    * 以下のサーバモジュールの更新
+      - cloudfn-server-manager-6.0.0 rc1
+      - cloudfn-node-server-6.0.0 rc1
+      - cloudfn-java-server-6.0.0 rc1
+
