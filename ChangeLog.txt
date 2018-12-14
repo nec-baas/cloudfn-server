@@ -1,3 +1,12 @@
+2018-12-14 : v7.5.1
+
+    * 以下のサーバモジュールの更新
+      - cloudfn-server-manager
+      - cloudfn-java-server
+
+    * 以下のサーバモジュールはバージョンのみ変更
+      - cloudfn-node-server
+
 2018-10-02 : v7.5.0
 
     * 以下のサーバモジュールの更新
